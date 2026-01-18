@@ -80,11 +80,6 @@ The system follows a modular and scalable architecture.
    - Stores registered users securely
 
 ---
-
-## 🏗 System Architecture Diagram
-
-![System Architecture](docs/system_architecture.png)
-
 ---
 
 ## 🔄 System Workflow
