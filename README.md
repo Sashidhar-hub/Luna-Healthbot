@@ -92,18 +92,6 @@ The system follows a modular and scalable architecture.
 6. User logs out securely  
 
 ---
-
-## 📸 Application Screenshots
-
-### 🔐 Login Page
-![Login Page](screenshots/login.png)
-
-### 📝 Sign Up Page
-![Sign Up Page](screenshots/signup.png)
-
-### 💊 Health Assistant Dashboard
-![Chatbot Page](screenshots/chatbot.png)
-
 ---
 
 
